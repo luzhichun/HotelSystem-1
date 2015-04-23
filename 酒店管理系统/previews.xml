@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Config1"
+        config="layout-ldltr-sw320dp-w533dp-h320dp-normal-long-land-notnight-hdpi-finger-keyssoft-nokeys-navexposed-trackball-800x480-v22"
+        device="3.7&quot; WVGA (Nexus One)"
+        devicestate="Landscape"
+        target="Android 5.1.1"
+        theme="@android:style/Theme" >
+    </preview>
+
+</previews>
